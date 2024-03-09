@@ -1,4 +1,4 @@
-# Node.js-a-Shell
+# Node.js for a-Shell
 A version of Node that I coded for ios a-Shell. It uses the jsc command, and it includes a fake NVM (Node Version Manager).
 
 ### Install (for a-Shell):
