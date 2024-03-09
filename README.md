@@ -3,7 +3,7 @@ A version of Node that I coded for ios a-Shell. It uses the jsc command, and it 
 
 ### Installation (for a-Shell):
 
-Run these command in a-Shell:
+Run these commands in a-Shell:
 
 ```
 cd ~/Documents
