@@ -30,7 +30,7 @@ Run this command in a-Shell:
 rm -rfv ~/Documents/bin/yes
 ```
 
-Now find these lines and remove them in ```~/Documents/.bashrc``` and ```~/Documents/.profile``` (if one file doesn't exist, then do the other one):
+Now find this line and remove it in ```~/Documents/.bashrc``` and ```~/Documents/.profile``` (If one file doesn't exist, then do the other one. And if the line doesn't exist in one of the files, then just ignore it):
 
 ```
 alias yes="python3 -ub ~/Documents/bin/yes/yes.py"
