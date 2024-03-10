@@ -7,7 +7,7 @@ Run these commands in a-Shell:
 
 ```
 mkdir -p ~/Documents/bin/yes
-curl -o ~/Documents/bin/yes.py
+curl https://github.com/XRG2014/Yes-a-Shell/blob/main/bin/yes.py -o ~/Documents/bin/yes.py
 ```
 
 Now run **ONLY ONE** of the commands shown below:
