@@ -1,5 +1,5 @@
-# Yes command for [a-Shell](https://holzschu.github.io/a-Shell_iOS)
-The classic yes command from linux now made for a-Shell. Coded in python.
+# Yes command for iOS/iPadOS [a-Shell](https://holzschu.github.io/a-Shell_iOS)
+The classic yes command from linux now made for iOS/iPadOS a-Shell. Coded in python.
 
 ### Install (for a-Shell):
 
