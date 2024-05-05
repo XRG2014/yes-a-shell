@@ -12,12 +12,12 @@ curl https://github.com/XRG2014/Yes-a-Shell/blob/main/bin/yes.py -o ~/Documents/
 
 Now run **ONLY ONE** of the commands shown below:
 
-> _This one uses ```~/Documents/.bashrc```:_
+> _This one uses ```~/Documents/.bashrc```_:
 ```
 echo 'alias yes="python3 -ub ~/Documents/bin/yes/yes.py"' | tee -a ~/Documents/.bashrc
 ```
 
-> _This one uses ```~/Documents/.profile```:_
+> _This one uses ```~/Documents/.profile```_:
 ```
 echo 'alias yes="python3 -ub ~/Documents/bin/yes/yes.py"' | tee -a ~/Documents/.profile
 ```
