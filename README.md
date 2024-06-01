@@ -43,3 +43,13 @@ Now find this line and remove it in ```~/Documents/.bashrc``` or ```~/Documents/
 ```
 alias yes="python3 -ub ~/Documents/yes/yes.py"
 ```
+
+### Help Text:
+
+```
+Usage: yes [STRING]...
+  or:  yes OPTION
+Repeatedly output a line with all specified STRING(s), or 'y'.
+      --help        display this help and exit
+      --version     output version information and exit
+```
