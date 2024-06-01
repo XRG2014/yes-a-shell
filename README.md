@@ -1,7 +1,11 @@
-# "Yes" command for iOS/iPadOS [a-Shell](https://holzschu.github.io/a-Shell_iOS)
-The classic "yes" command from linux now made for iOS/iPadOS a-Shell.
+# The "Yes" command for iOS/iPadOS [a-Shell](https://holzschu.github.io/a-Shell_iOS)
+The classic "Yes" command from linux now made for iOS/iPadOS a-Shell.
 
 > Coded in python
+
+> This program does not include the --version flag
+
+> Please note that this is not an official release of the "Yes" command, and that it may not include every feature
 
 ### Install:
 
