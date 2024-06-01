@@ -7,12 +7,6 @@ The classic "Yes" command from linux now made for iOS/iPadOS a-Shell.
 
 ### Install:
 
-Install Dependencies:
-
-```
-pip install colorama
-```
-
 Run these commands in a-Shell:
 
 ```
@@ -35,12 +29,6 @@ echo 'alias yes="python3 -ub ~/Documents/yes/yes.py"' | tee -a ~/Documents/.prof
 ```
 
 ### Uninstall:
-
-(optional) Uninstall dependencies:
-
-```
-pip uninstall colorama
-```
 
 Run this command in a-Shell:
 
