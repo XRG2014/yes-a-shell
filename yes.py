@@ -1,14 +1,10 @@
 import sys
-from colorama import Fore
  
 n = len(sys.argv)
 
 try:
     f = sys.argv[1]
-    if n > 2 and f == "--help" or n > 2 and f == "--version":
-        print(f'{Fore.LIGHTRED_EX}Error:{Fore.RESET} Invalid argument(s)')
-        sys.exit()
-    elif f == "--help":
+    if f == "--help":
         print("Usage: yes [STRING]...")
         print("  or:  yes OPTION")
         print("Repeatedly output a line with all specified STRING(s), or 'y'.")
@@ -21,7 +17,7 @@ try:
         print("Written by XRG2014")
         sys.exit()
     elif f.startswith("-") and not f == "--version" and not f == "--help":
-        print(f'{Fore.LIGHTRED_EX}Error:{Fore.RESET} Invalid argument(s)')
+        print("yes: invalid option -- '" + f + "'")
         sys.exit()
 except IndexError:
     try:
