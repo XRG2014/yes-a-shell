@@ -1,5 +1,5 @@
 # The "Yes" command for iOS/iPadOS [a-Shell](https://holzschu.github.io/a-Shell_iOS)
-The classic "Yes" command from linux now made for iOS/iPadOS a-Shell.
+The classic "Yes" command from linux now made for iOS/iPadOS a-Shell
 
 > Coded in python
 
@@ -36,9 +36,9 @@ Run this command in a-Shell:
 rm -rfv ~/Documents/yes
 ```
 
-Now find this line and remove it in ```~/Documents/.bashrc``` and ```~/Documents/.profile```, or which ever file you used to install the yes command:
+Now find this line and remove it in ```~/Documents/.bashrc``` or ```~/Documents/.profile``` (Which ever file you used to install the yes command):
 
-(If the line doesn't exist in a file then you can ignore it and/or go to the next one.)
+(If the line doesn't exist in a file then the "Yes" command might already be uninstalled.)
 
 ```
 alias yes="python3 -ub ~/Documents/yes/yes.py"
