@@ -34,9 +34,9 @@ Run this command in a-Shell:
 rm -rfv ~/Documents/bin/yes
 ```
 
-Now find these lines and remove them in ```~/Documents/.bashrc``` and ```~/Documents/.profile```, or which ever one you used to install the yes command:
+Now find this line and remove it in ```~/Documents/.bashrc``` and ```~/Documents/.profile```, or which ever file you used to install the yes command:
 
-(If the lines don't exist in the file then you can ignore it.)
+(If the line doesn't exist in a file then you can ignore it and move on to the next one.)
 
 ```
 alias yes="python3 -ub ~/Documents/bin/yes/yes.py"
