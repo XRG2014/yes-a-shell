@@ -38,7 +38,7 @@ rm -rfv ~/Documents/yes
 
 Now find this line and remove it in ```~/Documents/.bashrc``` or ```~/Documents/.profile``` (Which ever file you used to install the yes command):
 
-(If the line doesn't exist in a file then the "Yes" command might already be uninstalled.)
+> If the line doesn't exist in a file then the "Yes" command might already be uninstalled
 
 ```
 alias yes="python3 -ub ~/Documents/yes/yes.py"
