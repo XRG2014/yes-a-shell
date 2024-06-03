@@ -7,6 +7,10 @@ The classic "Yes" command from linux now made for iOS/iPadOS a-Shell
 
 ## Table of Contents:
 
+- [Install](/#install)
+- [Uninstall](/#uninstall)
+- [Help Text](/#help-text)
+
 ### Install:
 
 Run these commands in a-Shell:
