@@ -5,6 +5,8 @@ The classic "Yes" command from linux now made for iOS/iPadOS a-Shell
 
 > Please note that this is not an official release of the "Yes" command, and that this program  may not include every feature
 
+## Table of Contents:
+
 ### Install:
 
 Run these commands in a-Shell:
