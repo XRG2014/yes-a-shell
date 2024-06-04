@@ -3,7 +3,7 @@ The classic "Yes" command from linux now made for iOS/iPadOS a-Shell
 
 > Coded in python
 
-> Please note that this is not an official release of the "Yes" command, and that this program  may not include every feature
+> Please note that this is not an official release of the "Yes" command, and that this program may not include every feature and some may be changed or tweaked
 
 ## Table of Contents:
 
